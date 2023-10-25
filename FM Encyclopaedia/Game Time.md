@@ -1,0 +1,1 @@
+To produce a match rating, a player must play at least 15 in game minutes.
