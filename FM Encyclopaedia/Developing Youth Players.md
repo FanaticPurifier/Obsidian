@@ -11,8 +11,8 @@ Players need to produce good match ratings *and win games* to develop effectivel
 	- Negotiate loan agreements to maximise playing time and specific positions, you want as many GOOD MATCH RATINGS & WINS as possible
 
 ## Mentoring and Group Placement
-- Mentoring groups with older/[[influential]] players can improve [[hidden stats]], [[Personalities]] and [[MHS]].
-- Use spare registration spots for experiences players with high reputation and good [[Personalities]].
+- Mentoring groups with older/[[influential]] players can improve [[hidden stats]], [[Personality Overview]] and [[MHS]].
+- Use spare registration spots for experiences players with high reputation and good [[Personality Overview]].
 
 ## Training Regime for Young Players
 - Avoid adding player traits until after they turn 18. Stats develop much quicker between 15-16, trait develop is consistent (or improves as mental stats/personality does). So learning traits early will waste prime attribute development years.

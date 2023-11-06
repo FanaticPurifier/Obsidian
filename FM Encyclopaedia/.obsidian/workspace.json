@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personalities.md",
+                "file": "Personalities/Personality Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "204ab73d5f141829",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personalities/Personality Attributes/Ambition.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personalities.md",
+                "file": "Personalities/Personality Attributes/Ambition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personalities.md",
+                "file": "Personalities/Personality Attributes/Ambition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personalities.md"
+                "file": "Personalities/Personality Attributes/Ambition.md"
               }
             }
           }
@@ -147,10 +160,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "107a59d979e2dd3c",
+  "active": "204ab73d5f141829",
   "lastOpenFiles": [
+    "Personalities/Personality Overview.md",
+    "Personalities/Personality Attributes/Ambition.md",
+    "Personalities/Personality Attributes",
+    "Personalities",
     "Developing Youth Players.md",
-    "Personalities.md",
     "Training.md",
     "Game Time.md",
     "Untitled.canvas"
